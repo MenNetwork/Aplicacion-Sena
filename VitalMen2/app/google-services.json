@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70543831212",
+    "project_id": "vitalmen-f6dc3",
+    "storage_bucket": "vitalmen-f6dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70543831212:android:df96a89e43c5d9586e6f09",
+        "android_client_info": {
+          "package_name": "com.mennetwork.vitalmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70543831212-3i19irrp6s6d4kijhbcc7naprc8q7fb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mennetwork.vitalmen",
+            "certificate_hash": "5174654ff9f702705e30d79d2565b759a4035716"
+          }
+        },
+        {
+          "client_id": "70543831212-m1ropu5tmoqrhbnvcod4k8j32hgc966n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhQECd0j_lNcHTxsxcuO3QuBn_hGJ32I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70543831212-m1ropu5tmoqrhbnvcod4k8j32hgc966n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
